@@ -45,7 +45,7 @@ This project explores clustering techniques using K-Means and Principal Componen
 
 ### 6. **K-Means Clustering with PCA Data**
 - Fitted a new `KMeans` model using the PCA data.
-- Visualized the clusters in a scatter plot using PC1 and PC2.
+- Visualized the clusters in a scatter plot using PCA1 and PCA2.
 
 ### 7. **Visual Comparisons**
 - Created composite plots comparing:
