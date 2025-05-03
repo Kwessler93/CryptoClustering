@@ -49,6 +49,6 @@ This project explores clustering techniques using K-Means and Principal Componen
 
 ### 7. **Visual Comparisons**
 - Created composite plots comparing:
-  - Elbow curves (original vs PCA).
+  - Elbow curves and Clusters(original vs PCA).
   - Found that using fewer features through PCA simplifies the dataset but slightly reduces clustering effectiveness. The Elbow Curve shows that PCA-reduced data consistently yields lower inertia, indicating tighter clusters, but possibly at the cost of capturing less of the original variance. In the scatter plots, the clusters from the standard scaled data appear more distinct and better separated, while the PCA-based clusters are more compressed and tend to overlap, particularly near the center. This suggests that while dimensionality reduction can improve performance and reduce complexity, it may also obscure some natural groupings in the data.
 
